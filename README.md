@@ -1,5 +1,5 @@
 # Food Suggestion App
-This is a project what suggests meals to user according to ingredients those user choose in first the page.
+This is a project that suggests meals to user according to ingredients those user choose in first the page.
  
 In this page user choose ingredients that they have, to see meals.
 
